@@ -42,7 +42,15 @@ module.exports = {
   actions: [
     {
       type: 'add',
-      files: '**'
+      files: [
+        '**',
+        '!template.html'
+      ]
+    },
+    {
+      type: 'add',
+      transform: false,
+      files: ['template.html']
     },
     {
       type: 'move',
