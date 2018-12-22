@@ -2,7 +2,7 @@
 
 > my SAO generator for React project with TypeScript and webpack.
 
-[![CircleCI](https://circleci.com/gh/foryuki/template-node-basis.svg?style=svg)](https://circleci.com/gh/foryuki/template-node-basis)
+[![CircleCI](https://circleci.com/gh/yuki-template/react-ts.svg?style=svg)](https://circleci.com/gh/yuki-template/react-ts)
 
 ## Usage
 
