@@ -1,6 +1,6 @@
 # template-node-basis
 
-> my SAO generator for React Project with TypeScript and webpack.
+> my SAO generator for React project with TypeScript and webpack.
 
 [![CircleCI](https://circleci.com/gh/foryuki/template-node-basis.svg?style=svg)](https://circleci.com/gh/foryuki/template-node-basis)
 
