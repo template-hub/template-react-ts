@@ -1,0 +1,16 @@
+{
+  "extends": [
+    "tslint:latest",
+    "tslint-config-standard"
+  ],
+  "rules": {
+    "no-this-assignment": false,
+    "only-arrow-functions": false,
+    "no-submodule-imports": false,
+    "object-literal-sort-keys": false,
+    "no-implicit-dependencies": false,
+    "jsdoc-format": false,
+    "interface-name": false,
+    "member-access": [true, "no-public"]
+  }
+}
