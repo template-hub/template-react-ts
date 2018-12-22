@@ -18,13 +18,29 @@ trim_trailing_whitespace = false
 
 exports[`test defaults: Generated files 1`] = `
 Array [
+  ".babelrc",
   ".editorconfig",
-  ".eslintrc.json",
   ".gitignore",
   ".npmrc",
+  ".postcssrc.js",
   "LICENSE",
   "README.md",
   "package.json",
+  "src/App.tsx",
+  "src/components/Title.tsx",
+  "src/components/styles.module.scss",
+  "src/index.tsx",
+  "src/styles.scss",
+  "src/types/global.d.ts",
+  "src/utils/add.ts",
+  "src/utils/constant.ts",
+  "src/utils/simple.ts",
+  "template.html",
+  "tsconfig.json",
+  "tslint.json",
+  "webpack.common.js",
+  "webpack.dev.js",
+  "webpack.prod.js",
 ]
 `;
 

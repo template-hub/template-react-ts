@@ -1,6 +1,6 @@
 # template-node-basis
 
-> my SAO generator for basic node project
+> my SAO generator for React Project with TypeScript and webpack.
 
 [![CircleCI](https://circleci.com/gh/foryuki/template-node-basis.svg?style=svg)](https://circleci.com/gh/foryuki/template-node-basis)
 
@@ -18,7 +18,7 @@ npm i -g sao
 
 ```bash
 cd my-project
-sao foryuki/template-node-basis --update
+sao yuki-template/react-ts --update
 ```
 
 ## License
