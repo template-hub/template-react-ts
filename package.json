@@ -1,9 +1,9 @@
 {
-  "name": "react-ts",
+  "name": "template-react-ts",
   "version": "0.0.0",
   "description": "my awesome SAO generator",
   "repository": {
-    "url": "yuki-template/react-ts",
+    "url": "template-hub/template-react-ts",
     "type": "git"
   },
   "author": "foryuki <foryuki@outlook.com> (github.com/foryuki)",

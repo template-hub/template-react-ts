@@ -1,8 +1,8 @@
-# template-node-basis
+# template-react-ts
 
 > my SAO generator for React project with TypeScript and webpack.
 
-[![CircleCI](https://circleci.com/gh/yuki-template/react-ts.svg?style=svg)](https://circleci.com/gh/yuki-template/react-ts)
+[![CircleCI](https://circleci.com/gh/template-hub/template-react-ts.svg?style=svg)](https://circleci.com/gh/template-hub/template-react-ts)
 
 ## Usage
 
@@ -18,7 +18,7 @@ npm i -g sao
 
 ```bash
 cd my-project
-sao yuki-template/react-ts --update
+sao template-hub/template-react-ts --update
 ```
 
 ## License
